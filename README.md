@@ -70,38 +70,6 @@ selected Cyfer playback profile.
 - Optional TMDb, Trakt, AnimeSchedule, Real-Debrid, TorBox, and addon accounts
   depending on which features you want to use.
 
-## Development
-
-Install dependencies:
-
-```powershell
-npm install
-```
-
-Build the native mpv render addon for Electron:
-
-```powershell
-npm run native:mpv:build:electron
-```
-
-Run the desktop app in development mode:
-
-```powershell
-npm run desktop
-```
-
-Run against a production Next build:
-
-```powershell
-npm run desktop:prod
-```
-
-Create a Windows installer build:
-
-```powershell
-npm run package:beta
-```
-
 ## Important Notes
 
 - Cyfer is still beta software. Expect bugs, especially around HDR/Dolby Vision
