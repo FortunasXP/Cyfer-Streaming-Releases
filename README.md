@@ -15,8 +15,6 @@ Cyfer is in active beta development. Builds are shared through GitHub Releases
 for testers, and features are still being tightened based on real playback
 feedback across different Windows systems, GPUs, displays, and audio setups.
 
-Current app version: `0.5.0-beta.6`
-
 ## Current Features
 
 - Apple-TV-inspired desktop UI for Home, Movies, Series, Anime, Calendar,
